@@ -1,2 +1,4 @@
 # Modelos
-Modelos analíticos
+Modelos analítico
+
+UDEMY ML PYTHON Y R
